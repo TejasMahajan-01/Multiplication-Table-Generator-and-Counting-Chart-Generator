@@ -1,6 +1,8 @@
 # Multiplication-Table-Generator-and-Counting-Chart-Generator
 A basic app that generates multiplication tables or math tables based on inputs can also generate counting charts and convert numbers into text.
 
+Link - https://math-table.azurewebsites.net/
+
 ### Table Generator
 ![Screenshot (2)](https://user-images.githubusercontent.com/105104702/224611963-a68fb984-aea9-4886-bdd4-6070f404400d.png)
 
